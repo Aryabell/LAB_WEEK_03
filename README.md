@@ -1,6 +1,7 @@
 ZIP APK LAB_WEEK_03 : [Aryabell Boston Tjugito_APK_Week03.zip](https://github.com/user-attachments/files/22211672/Aryabell.Boston.Tjugito_APK_Week03.zip)
 
 SCREENSHOT :
+
 SCREENSHOT TUTORIAL
 Commit 1 - Logcat (MainFragment:onAttach, MainFragment:onCreate, MainActivity:onCreate, MainFragment:onCreateView, MainFragment:onViewCreated, MainActivity:onStart, MainActivity:onResume)
 <img width="1920" height="1200" alt="Screenshot 2025-09-08 154637" src="https://github.com/user-attachments/assets/5c95296b-5b79-4235-bad4-e7255d7b21b8" />
